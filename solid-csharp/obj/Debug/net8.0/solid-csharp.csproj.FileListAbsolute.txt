@@ -1,0 +1,14 @@
+/Users/bcnmac020/Documents/factoriaf5/bootcamp/p2-singulars/c-sharp/solid-csharp/solid-csharp/bin/Debug/net8.0/solid-csharp
+/Users/bcnmac020/Documents/factoriaf5/bootcamp/p2-singulars/c-sharp/solid-csharp/solid-csharp/bin/Debug/net8.0/solid-csharp.deps.json
+/Users/bcnmac020/Documents/factoriaf5/bootcamp/p2-singulars/c-sharp/solid-csharp/solid-csharp/bin/Debug/net8.0/solid-csharp.runtimeconfig.json
+/Users/bcnmac020/Documents/factoriaf5/bootcamp/p2-singulars/c-sharp/solid-csharp/solid-csharp/bin/Debug/net8.0/solid-csharp.dll
+/Users/bcnmac020/Documents/factoriaf5/bootcamp/p2-singulars/c-sharp/solid-csharp/solid-csharp/bin/Debug/net8.0/solid-csharp.pdb
+/Users/bcnmac020/Documents/factoriaf5/bootcamp/p2-singulars/c-sharp/solid-csharp/solid-csharp/obj/Debug/net8.0/solid-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bcnmac020/Documents/factoriaf5/bootcamp/p2-singulars/c-sharp/solid-csharp/solid-csharp/obj/Debug/net8.0/solid-csharp.AssemblyInfoInputs.cache
+/Users/bcnmac020/Documents/factoriaf5/bootcamp/p2-singulars/c-sharp/solid-csharp/solid-csharp/obj/Debug/net8.0/solid-csharp.AssemblyInfo.cs
+/Users/bcnmac020/Documents/factoriaf5/bootcamp/p2-singulars/c-sharp/solid-csharp/solid-csharp/obj/Debug/net8.0/solid-csharp.csproj.CoreCompileInputs.cache
+/Users/bcnmac020/Documents/factoriaf5/bootcamp/p2-singulars/c-sharp/solid-csharp/solid-csharp/obj/Debug/net8.0/solid-csharp.dll
+/Users/bcnmac020/Documents/factoriaf5/bootcamp/p2-singulars/c-sharp/solid-csharp/solid-csharp/obj/Debug/net8.0/refint/solid-csharp.dll
+/Users/bcnmac020/Documents/factoriaf5/bootcamp/p2-singulars/c-sharp/solid-csharp/solid-csharp/obj/Debug/net8.0/solid-csharp.pdb
+/Users/bcnmac020/Documents/factoriaf5/bootcamp/p2-singulars/c-sharp/solid-csharp/solid-csharp/obj/Debug/net8.0/solid-csharp.genruntimeconfig.cache
+/Users/bcnmac020/Documents/factoriaf5/bootcamp/p2-singulars/c-sharp/solid-csharp/solid-csharp/obj/Debug/net8.0/ref/solid-csharp.dll
